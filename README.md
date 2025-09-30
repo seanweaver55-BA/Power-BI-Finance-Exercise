@@ -35,11 +35,5 @@ Finance Performance Dashboard
 
 ---
 
-## Resources
-- [Download the Power BI File](#)  
-- [Project Link](#)  
-
----
-
 ## Feedback
 Suggestions and feedback are welcome — feel free to connect or comment directly on the project page.  

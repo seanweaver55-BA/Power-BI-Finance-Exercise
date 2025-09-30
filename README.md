@@ -7,7 +7,7 @@ This Power BI report delivers a high-level overview of sales and profitability a
 ## Dashboard Preview
 Finance Performance Dashboard  
 
-<img src="IMAGE-LINK" alt="Finance Performance Dashboard" width="800"/>
+<img src="https://github.com/user-attachments/assets/b8dd7c15-bd4b-40b0-9997-4ab846296750" alt="Finance Performance Dashboard" width="800"/>
 
 ---
 
